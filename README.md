@@ -1,4 +1,4 @@
-# DataStructures_Prj
+# Data Structures Project
 This is a Data Structures project. The main objective is to create and use a stack structure in practice.
 <br>The code is computing and returning <em>TRUE</em> or <em>FALSE</em> based on user input. The user is requested to enter
 the number of inputs and then enter a character one after other. Accepted and stored characters are '(,),{,}'. The program computes if the array is balanced or not
